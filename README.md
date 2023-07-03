@@ -4,15 +4,11 @@
 ####Welcome to the Blackjack Game project! This repository contains a Python script that simulates a classic game of Blackjack. Test your luck and skill as you try to beat the dealer and win big!###
 
 Features
-Game simulation: Play a full game of Blackjack against an automated dealer.
-
-Player decisions: Make strategic decisions such as hitting, standing, or doubling down.
-
-Betting system: Place bets on each hand and manage your virtual bankroll.
-
-Score tracking: Keep track of wins, losses, and ties throughout the game.
-
-Gameplay rules: The game follows standard Blackjack rules, including card values and win conditions.
+Card dealing: Random cards are dealt to the player and the dealer.
+Score calculation: The score is calculated based on the card values.
+Gameplay decisions: The player can choose to hit (get another card) or stand (pass their turn).
+Win conditions: The game determines the winner based on the scores.
+Multiple rounds: The game continues until the player decides to quit.
 
 **Installation**
 To run the Blackjack game script, you need to have Python 3 installed on your machine. Clone this repository or download the blackjack.py file to your local environment.
