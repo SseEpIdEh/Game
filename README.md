@@ -1,10 +1,10 @@
 # 2 Games consist of :
 
-***Blackjack Game**
+**Blackjack Game**
 
 Welcome to the Blackjack Game project! This repository contains a Python script that simulates a classic game of Blackjack. Test your luck and skill as you try to beat the dealer and win big!
 
-Features
+**Features:**
 Card dealing: Random cards are dealt to the player and the dealer.
 
 Score calculation: The score is calculated based on the card values.
@@ -20,13 +20,13 @@ Multiple rounds: The game continues until the player decides to quit.
 To run the Blackjack game script, you need to have Python 3 installed on your machine. Clone this repository or download the blackjack.py file to your local environment.
 **********************************************
 
-***Number Guessing Game**
+**Number Guessing Game**
 
 
 Welcome to the Number Guessing Game project! This repository contains a Python script that allows you to play a simple number guessing game.
 Try to guess the randomly generated number within a specified number of turns.
 
-**Features**
+**Features:**
 Random number generation: A random number between 1 and 100 is generated for each game.
 
 Difficulty levels: Choose between easy and hard difficulty levels, which determine the number of turns you have.
