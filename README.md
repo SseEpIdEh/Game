@@ -21,6 +21,8 @@ To run the Blackjack game script, you need to have Python 3 installed on your ma
 **********************************************
 
 ***Number Guessing Game**
+
+
 Welcome to the Number Guessing Game project! This repository contains a Python script that allows you to play a simple number guessing game.
 Try to guess the randomly generated number within a specified number of turns.
 
