@@ -1,6 +1,6 @@
 # 2 Games consist of :
 
-**Blackjack Game**
+***Blackjack Game**
 
 Welcome to the Blackjack Game project! This repository contains a Python script that simulates a classic game of Blackjack. Test your luck and skill as you try to beat the dealer and win big!
 
